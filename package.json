@@ -3,11 +3,11 @@
   "private": true,
   "homepage": "https://gh-activity.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/gh-activity/issues"
+    "url": "https://github.com/trueberryless/gh-activity/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/gh-activity.git"
+    "url": "https://github.com/trueberryless/gh-activity.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
